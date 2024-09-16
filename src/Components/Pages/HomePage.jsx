@@ -3,7 +3,7 @@ import NavbarComp from '../NavbarComp';
 import FooterComp from '../FooterComp';
 import  '../../assets/style.css';
 import profil from '../../assets/profil.png';
-import computer from '../../assets/computer.jpg'
+//import computer from '../../assets/computer.jpg'
 const HomePage = () => {
 	
 	return(
@@ -65,9 +65,7 @@ P
 				</div>
 
 			</div>
-			<div>
-				<img src={computer} />
-			</div>
+			
 			<div>
 				<FooterComp />
 			</div>
