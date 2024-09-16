@@ -65,7 +65,10 @@ body {
     }
 }
 .container-project {
-    background-color: red;z-index: 9;
+    background-color: white;z-index: 9;
+}
+.container-project h1 {
+    text-align:center;
 }
 @media(max-width:768px) {
     .fixedd {
